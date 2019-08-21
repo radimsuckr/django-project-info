@@ -23,6 +23,7 @@ setup(
         'project_info/bin/release-version.py',
         'project_info/bin/release-git.py',
         'project_info/bin/release-bitbucket.py',
+        'project_info/bin/release-ecs.py',
     ],
     zip_safe=False
 )
