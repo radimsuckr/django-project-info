@@ -1,0 +1,1 @@
+RELEASE_TYPES = ('major', 'minor', 'patch', 'build')
